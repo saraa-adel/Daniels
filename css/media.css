@@ -1,6 +1,9 @@
 @media all and (max-width:991.9px){
      .container{
-          width: 100%;
+          width: 100% !important;
+     }
+     .container-xxl{
+          width: 100% !;
      }
      .navbar .container .collapse .navbar-nav{
           width: 100%;
